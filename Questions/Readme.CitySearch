@@ -1,0 +1,6 @@
+Question 6:
+Define a class in Java to accept the names of 10 cities in a single-dimension string array and their STD (Subscriber Trunk Dialing) codes in another single-dimension integer array.
+Search for the name of a city input by the user in the list.
+
+If found, display "Search Successful" and print the name of the city along with its STD code.
+Otherwise, display "Search Unsuccessful, No such city in the list."

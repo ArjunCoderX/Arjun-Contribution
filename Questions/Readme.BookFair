@@ -1,0 +1,18 @@
+Question 3:
+Define a class named BookFair with the following description:
+
+Instance variables/Data members:
+
+String Bname: To store the name of the book.
+double price: To store the price of the book.
+Member methods:
+
+BookFair(): Default constructor to initialize data members.
+void Input(): To input and store the name and price of the book.
+void Calculate(): To calculate the price after a discount. Discount is calculated based on the following criteria:
+Price ≤ ₹1000: 2% of price.
+Price > ₹1000 and < ₹3000: 10% of price.
+Price ≥ ₹3000: 15% of price.
+void display(): To display the name and price of the book after discount.
+Write a main method to create an object of the class and call the above member methods.
+

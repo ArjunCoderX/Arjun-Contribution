@@ -1,0 +1,23 @@
+Question 5
+
+Define a class to overload the function print as follows:
+
+void print(): Prints the following format:
+
+1 1 1 1  
+2 2 2 2  
+3 3 3 3  
+4 4 4 4  
+5 5 5 5
+
+void print(int n): Checks whether the number is a lead number. 
+A lead number is one whose sum of even digits equals the sum of odd digits. 
+For example:
+
+Input: 3669
+
+Odd digits sum = 3 + 9 = 12
+
+Even digits sum = 6 + 6 = 12
+
+Output: 3669 is a lead number. 

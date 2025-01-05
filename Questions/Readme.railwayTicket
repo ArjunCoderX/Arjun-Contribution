@@ -1,0 +1,18 @@
+Question:
+
+Define a class `RailwayTicket` with the following:  
+
+Instance Variables:
+1. `String name` - Customer's name.  
+2. `String coach` - Coach type (First_AC, Second_AC, Third_AC, Sleeper).  
+3. `long mobno` - Customer's mobile number.  
+4. `int amt` - Basic ticket amount.  
+5. `int totalamt` - Total payable amount after adding extra charges.  
+
+Methods:
+1. `void accept()` - Input `name`, `coach`, `mobno`, and `amt`.  
+2. `void update()` - Calculate `totalamt` by adding extra charges:  
+   - First_AC: ₹700, Second_AC: ₹500, Third_AC: ₹250, Sleeper: ₹0.  
+3. `void display()` - Output `name`, `coach`, `mobno`, and `totalamt`.  
+
+Write a main method to create an object of the class and invoke these methods in sequence.

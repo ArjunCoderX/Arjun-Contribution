@@ -1,0 +1,11 @@
+Question 8:
+Define a class to overload a function series() as follows:
+
+double volume(double R): With radius R as an argument, returns the volume of a sphere using the formula:
+V = (4/3) × (22/7) × R³
+
+double volume(double H, double R): With height H and radius R as the arguments, returns the volume of a cylinder using the formula:
+V = (22/7) × R² × H
+
+double volume(double L, double B, double H): With length L, breadth B, and height H as the arguments, returns the volume of a cuboid using the formula:
+V = L × B × H

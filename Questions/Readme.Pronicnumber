@@ -1,0 +1,8 @@
+Question 7:
+Define a class to input a number and check whether it is a Pronic number or not.
+(A Pronic number is the product of two consecutive integers.)
+
+Example:
+12 = 3 × 4
+20 = 4 × 5
+42 = 6 × 7

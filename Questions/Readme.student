@@ -1,0 +1,9 @@
+Question 4:
+Define a class in Java to input and store roll numbers, names, and marks in 3 subjects for n students in a single-dimensional array. Calculate and display the average marks and remarks based on the following criteria:
+
+Average Marks & Remarks:
+85-100: Excellent
+75-84: Distinction
+60-74: First Class
+40-59: Pass
+Less than 40: Poor
